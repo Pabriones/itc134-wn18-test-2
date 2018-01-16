@@ -1,1 +1,3 @@
 This is the first version of class.txt
+Now we add things to the file
+add some more things
